@@ -1,0 +1,19 @@
+{
+  "appId": "com.yourname.oasisledger",
+  "appName": "Oasis Ledger",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "always",
+    "backgroundColor": "#fafaff"
+  },
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": false,
+      "style": "DARK",
+      "backgroundColor": "#fafaff"
+    }
+  }
+}
